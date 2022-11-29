@@ -1,4 +1,4 @@
 # 0x03. Git
-**Git**  
-**Code versioning**  
-**Github**
+`**Git**`  
+`**Code versioning**`  
+`**Github**`
